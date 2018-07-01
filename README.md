@@ -7,8 +7,8 @@ First app using this framework.
 <img src="screen.png" width="350">
 
 ## ToDo
-*massive design changes
-*add settings screen
-*add detail screen for daily weather
-*firebase integration
-*...
+* massive design changes
+* add settings screen
+* add detail screen for daily weather
+* firebase integration
+* ...
