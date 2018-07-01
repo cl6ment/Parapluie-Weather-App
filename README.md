@@ -1,6 +1,8 @@
 ## [UNDER DEVELOPPEMENT] Parapluie
 A weather app entirely built using Dart language and Flutter framework.
+
 First app using this framework.
+
 (I've been playing with dart lately... and no one was hurt)
 
 ## A glance at the app
